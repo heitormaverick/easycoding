@@ -90,6 +90,12 @@ p {
   vertical-align: top;
 }
 
+.divisão {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .post, .sobre {
   max-width: 800px;
   margin: 0 auto;
