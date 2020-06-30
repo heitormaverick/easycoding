@@ -1,2 +1,2 @@
-# mimo
-Exercícios do Mimo
+# EasyCoding
+Site de programação para iniciantes
