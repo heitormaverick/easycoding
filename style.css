@@ -126,6 +126,14 @@ p {
   letter-spacing: 0.1em;
 }
 
+.post-title a{
+  color: black;
+}
+
+.post-title a:hover {
+  color: gray;
+}
+
 .sobre {
   text-align: center;
 }
@@ -133,6 +141,10 @@ p {
 .sobre-author img {
   width: 200px;
   height: 200px;
+}
+
+#img1 {
+  width: 100px;
 }
 /* ----------------------------------------------------404--------------------------------------------------- */
 
