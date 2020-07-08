@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&family=Source+Code+Pro:wght@400;700&display=swap');
+
+body {
+  background-color: #1C1C1C;
+  color: white;
+  margin: 0;
+
+  font-family: Coda, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong {
+  font-weight: 800;
+}
+
+code {
+  display: inline-block;
+  border: 1px solid cyan;
+  padding: 2px 6px;
+  background-color: #999;
+  color: black;
+  font-size: 16px;
+  font-family: 'Source Code Pro', Consolas, 'Courier New', Courier, monospace;
+  font-style: normal !important;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E4E4E4;
+}
+
+h1, h2, h3, h4 {
+  color: white;
+}
+
+p {
+  line-height: 1.5;
+}
+
+#header {
+  background-color: #910000;
+  height: 150px;
+  line-height: 150px;
+}
+
+#header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#header a:hover {
+  color: #B5B5B5;
+}
+
+#header-title {
+  display: block;
+  float: left;
+
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#header-nav {
+  display: block;
+  float: right;
+  margin: 0;
+}
+
+#header-nav li {
+  display: inline;
+  padding-left: 20px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.post-container:nth-child(even) {
+  background-color: #292929;
+}
+
+#footer {
+  background-color: black;
+  padding: 50px 0;
+}
+
+#footer h4 {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#footer p {
+  color: white;
+}
+
+.column {
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.divisão {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.post, .sobre {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+.post-author img {
+  width: 55px;
+  height: 55px;
+  vertical-align: middle;
+}
+
+.post-author img, .sobre-author img {
+  border-radius: 50%;
+}
+
+.post-author span {
+  margin-left: 16px;
+}
+
+.post-date {
+  color: #DADADA;
+
+  font-size: 14px;
+  font-weight: bold;
+
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.post-title a{
+  color: white;
+}
+
+.post-title a:hover {
+  color: gray;
+}
+
+.post-content img {
+  border: 4px solid;
+  border-color: darkcyan;
+}
+
+.sobre {
+  text-align: center;
+}
+
+.sobre-author img {
+  width: 200px;
+  height: 200px;
+}
+
+#img1 {
+  width: 100px;
+}
+/* ----------------------------------------------------404--------------------------------------------------- */
+
+body#body404 {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#notfound {
+  position: relative;
+  height: 100vh;
+  background: #030005;
+}
+
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.notfound {
+  max-width: 767px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.notfound .notfound-404 {
+  position: relative;
+  height: 180px;
+  margin-bottom: 20px;
+  z-index: -1;
+}
+
+.notfound .notfound-404 h1 {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50% , -50%);
+      -ms-transform: translate(-50% , -50%);
+          transform: translate(-50% , -50%);
+  font-size: 224px;
+  font-weight: 900;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: -12px;
+  color: #030005;
+  text-transform: uppercase;
+  text-shadow: -1px -1px 0px #8400ff, 1px 1px 0px #ff005a;
+  letter-spacing: -20px;
+}
+
+
+.notfound .notfound-404 h2 {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 110px;
+  font-size: 42px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0px 2px 0px #8400ff;
+  letter-spacing: 13px;
+  margin: 0;
+}
+
+.notfound a {
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #ff005a;
+  text-decoration: none;
+  border: 2px solid;
+  background: transparent;
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 700;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.notfound a:hover {
+  color: #8400ff;
+}
+
+@media only screen and (max-width: 767px) {
+    .notfound .notfound-404 h2 {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+  .notfound .notfound-404 h1 {
+      font-size: 182px;
+  }
+}
