@@ -1,0 +1,36 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.21.0/ui/trumbowyg.min.css">
+</head>
+
+<body>
+
+    <style>
+        #editor, #html { width: 100%; height: 45%; overflow-y: scroll; border: 1px solid gray; }
+    </style>
+
+    <div id="editor"></div>
+    <pre id="html"></pre>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.21.0/trumbowyg.min.js"></script>
+    <script src='jquery.format.js'></script>
+
+    <script>
+        $('#editor').trumbowyg();
+        $('#editor').keyup(function(e) {
+            $('#html').text($('#editor').html()
+                .replaceAll("</p>", "</p>\n\n")
+                .replaceAll("</h1>", "</h1>\n\n")
+                .replaceAll("</h2>", "</h2>\n\n")
+                .replaceAll("</h3>", "</h3>\n\n")
+                .replaceAll("</h4>", "</h4>\n\n")
+                .replaceAll("</h5>", "</h5>\n\n")
+                .replaceAll("<br>", "<br>\n"));
+        });
+    </script>
+</body>
+
+</html>
