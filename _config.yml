@@ -1,4 +1,5 @@
-url: https://heitormaverick.github.io/easycoding/
+baseurl: /easycoding
+url: https://heitormaverick.github.io/easycoding
 excerpt_separator: <!--more-->
 permalink: pretty
 posts_recentes: 3

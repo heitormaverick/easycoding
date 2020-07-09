@@ -2,7 +2,7 @@
     {% for post in site.posts | limit: site.posts_recentes %}
     <div class="post">
         <div class="post-author">
-            <img src="{% link /images/heitor.jpg %}" alt="heitor">
+            <img src="{{ "/images/heitor.jpg" | relative_url }}" alt="heitor">
             <span>{{ post.author }}</span>
         </div>
         <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
