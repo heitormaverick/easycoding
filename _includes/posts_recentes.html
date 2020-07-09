@@ -1,0 +1,16 @@
+<div class="post-container">
+    {% for post in site.posts | limit: site.posts_recentes %}
+    <div class="post">
+        <div class="post-author">
+            <img src="{% link /images/heitor.jpg %}" alt="heitor">
+            <span>{{ post.author }}</span>
+        </div>
+        <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
+        <h3 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <div class="post-content">
+            {{ post.excerpt }}
+            <p><a href="{{ post.url | relative_url }}">Continue lendo...</a></p>
+        </div>
+    </div>
+    {% endfor %}
+</div>

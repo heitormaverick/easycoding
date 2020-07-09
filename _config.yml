@@ -1,8 +1,21 @@
 url: https://heitormaverick.github.io/easycoding/
+excerpt_separator: <!--more-->
+permalink: pretty
+posts_recentes: 3
 
 defaults:
-  - 
-    path: /
+  -
+    scope:
+      path: ""
     values:
-      layout: default
-  
+      layout: "default"
+      sitemap: true
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      author: "Heitor Maciel"
+      author_pic: "/images/heitor.jpg"
+      permalink: "/blog/:year/:month/:day/:title/"
+        

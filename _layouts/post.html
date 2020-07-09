@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-container">
+    <div class="post">
+        <h1 class="post-title" style="text-align: center; padding-bottom: 10px;">{{ page.title }}</h1>
+        <div class="post-author">
+            <img src="{{ page.author_pic | relative_url }}" alt="{{ page.author }}">
+            <span>{{ page.author }}</span>
+        </div>
+        <p class="post-date">{{ page.date | date: "%d/%m/%Y"}}</p>
+        <div class="post-content">
+            {{ content }}
+        </div>
+    </div>
+</div>
