@@ -1,5 +1,5 @@
 <div class="post-container">
-    {% for post in site.posts | limit: site.posts_recentes %}
+    {% for post in site.posts | limit: include.max_posts %}
     <div class="post">
         <div class="post-author">
             <img src="{{ "/images/heitor.jpg" | relative_url }}" alt="heitor">
