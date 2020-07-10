@@ -18,18 +18,18 @@ E para integrar os dois, usamos o Git. Baixe ele [aqui](https://www.git-scm.com/
 ### Criando a conta
 
 Primeiro, preencha seu nome de usuário, email e senha:
-![github1.png](../images/github1.png)
+![github1.png](https://heitormaverick.github.io/easycoding/images/github1.png)
 
 Agora verifique sua conta e clique no botão azul:
-![github2.png](../images/github2.png)
+![github2.png](https://heitormaverick.github.io/easycoding/images/github.png)
 
 Agora confira no seu email se recebeu a verificação e confirme:
-![github3.png](../images/github3.jpg)
+![github3.png](https://heitormaverick.github.io/easycoding/images/github3.png)
 
 ### Criando o repositório
 
 Depois de verificar, vamos criar nosso repositório (é onde o código do nosso site será armazenado):
-![github4.png](../images/github4.png)
+![github4.png](https://heitormaverick.github.io/easycoding/images/github4.png)
 
 Em **Respository name**, colocamos o nome do nosso site + *github.io*;
 
@@ -38,10 +38,10 @@ Caso queira, coloque uma descrição;
 Deixe como público;
 
 E cheque a caixa de inicializar com um **leia-me**:
-![github5.png](../images/github5.png)
+![github5.png](https://heitormaverick.github.io/easycoding/images/github5.png)
 
 Agora, para descobrir o link do nosso site, vamos em **settings** e rolamos até **GitHub Pages**. Lá estará escrito o endereço:
-![github6.png](../images/github6.png)
+![github6.png](https://heitormaverick.github.io/easycoding/images/github6.png)
 
 Pronto! Já temos o local para o nosso site reservado, agora vamos para o Visual Studio Code para ver onde o site será feito de fato.
 
