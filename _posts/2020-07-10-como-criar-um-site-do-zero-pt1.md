@@ -21,10 +21,10 @@ Primeiro, preencha seu nome de usuário, email e senha:
 ![github1.png](https://heitormaverick.github.io/easycoding/images/github1.png)
 
 Agora verifique sua conta e clique no botão azul:
-![github2.png](https://heitormaverick.github.io/easycoding/images/github.png)
+![github2.png](https://heitormaverick.github.io/easycoding/images/github2.png)
 
 Agora confira no seu email se recebeu a verificação e confirme:
-![github3.png](https://heitormaverick.github.io/easycoding/images/github3.png)
+![github3.jpg](https://heitormaverick.github.io/easycoding/images/github3.jpg)
 
 ### Criando o repositório
 
