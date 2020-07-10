@@ -11,7 +11,7 @@ Como editor, usaremos o Visual Studio Code, pois além de ser um dos editores ma
 
 Para a hospedagem, usaremos o GitHub, uma das maiores plataformas de hospedagem de repositórios de código. Crie sua conta [aqui](https://github.com/) (siga o passo-a-passo abaixo).
 
-E para integrar os dois, usamos o Git. Baixe ele [aqui](https://www.git-scm.com/), idem.
+E para integrar os dois, usamos o Git. Baixe ele [aqui](https://www.git-scm.com/), e ainda não execute também.
 
 ## GitHub
 
