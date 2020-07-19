@@ -3,6 +3,7 @@ url: https://heitormaverick.github.io/easycoding
 excerpt_separator: <!--more-->
 permalink: pretty
 posts_recentes: 3
+future: false
 
 defaults:
   -
