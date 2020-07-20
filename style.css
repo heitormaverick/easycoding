@@ -151,8 +151,11 @@ p {
 }
 
 .post-content img {
+  margin-top: 20px;
   border: 4px solid;
-  border-color: darkcyan;
+  border-color: #323232;
+  border-radius: 15px;
+  width: 800px;
 }
 
 .sobre {

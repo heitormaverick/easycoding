@@ -46,3 +46,4 @@ Agora, para descobrir o link do nosso site, vamos em **settings** e rolamos até
 Pronto! Já temos o local para o nosso site reservado, agora vamos para o Visual Studio Code para ver onde o site será feito de fato.
 
 ## Visual Studio Code
+
