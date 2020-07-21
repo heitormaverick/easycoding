@@ -162,4 +162,4 @@ Chegamos ao fim desse post de introdução a HTML. Caso tenha restado alguma dú
 
 Em breve sai o primeiro post da série _Como criar e publicar seu site do zero_.
 
-Obrigado por ler até aqui.
+Obrigado por ler até aqui, e até mais.
