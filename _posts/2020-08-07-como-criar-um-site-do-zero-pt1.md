@@ -1,5 +1,5 @@
 ---
-title: Como criar e publicar um site do zero - Parte 1
+title: Como criar e publicar um site do zero &num;1 - Preparando as ferramentas
 ---
 Nesse post, vamos começar com as ferramentas necessárias para podermos criar nosso site
 
