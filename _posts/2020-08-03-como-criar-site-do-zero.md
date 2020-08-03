@@ -8,4 +8,4 @@ Esse mês farei uma série de posts ensinando como criar, estilizar e o mais imp
 
 <!--more-->
 
-Fique ligado que Quarta sai o material de apoio e Sexta o primeiro post da série.
+Fique ligado que quarta sai o material de apoio e sexta o primeiro post da série.
