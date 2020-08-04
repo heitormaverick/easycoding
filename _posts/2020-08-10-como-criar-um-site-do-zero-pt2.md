@@ -3,6 +3,9 @@ title: Como criar e publicar um site do zero &num;2 - Programando o corpo do nos
 ---
 Nesse post, vamos começar a programar nosso site.
 
-Antes de começar, quero avisar que o tipo de site que faremos será um blog, uma das formas mais fáceis de fazer.
+O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 <!--more-->
+
+Para começarmos, abra o Visual Studio Code (caso não o tenha instalado, veja nosso [post #1](https://heitormaverick.github.io/easycoding/blog/2020/08/07/como-criar-site-do-zero/) onde explico como configurar os programas que usaremos).
+
