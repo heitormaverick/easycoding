@@ -22,8 +22,12 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 - Agora vamos botar nosso conhecimento de HTML em prática. Caso algo que eu mostre aqui seja novo para você, veja nosso [post de introducão ao HTML](https://heitormaverick.github.io/easycoding/blog/2020/08/05/introducao-ao-html/)
 
-- Começamos com as tags principais:
-    - Primeiro o `<html>`.
-    - Ao invés de escrever a tag inteira, tente escrever apenas **html**. Apareceu um pop-up com o html selecionado? Pressione ***ENTER***
-    
+- Comecemos com as tags principais:
+- Primeiro o `<html>`.
+- Ao invés de escrever a tag inteira, tente escrever apenas **html**. Apareceu um pop-up com o html selecionado? Pressione ***ENTER***
+
 ![04.png](https://heitormaverick.github.io/easycoding/images/ccsz2/04.png)
+ 
+- Viu que ele finalizou a tag e ainda fez a tag de fechamento? Essa uma ferramenta muito útil do VS Code.
+
+![05.png](https://heitormaverick.github.io/easycoding/images/ccsz2/05.png)
