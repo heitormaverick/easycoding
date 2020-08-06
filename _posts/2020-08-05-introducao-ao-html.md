@@ -9,10 +9,6 @@ Para programar em HTML, primeiro é necessário conhecer algumas das funções q
 
 <!--more-->
 
-HTML é a lingugem de programção usada na maioria dos sites.
-
-Para programar em HTML, primeiro é necessário conhecer algumas das funções que o compoem. Vamos ver o que cada uma faz:
-
 ## HTML
 
 Tudo começa com a tag `<html>`. Como qualquer tag, ela é composta por um **<**, o nome dela: **html** e o **>**.
