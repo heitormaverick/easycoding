@@ -11,7 +11,7 @@ Para programar em HTML, primeiro é necessário conhecer algumas das funções q
 
 ## HTML
 
-Tudo começa com a tag `<html>`. Como qualquer tag, ela é composta por um **<**, o nome dela: **html** e o **>**.
+Tudo começa com a tag `<html>`. Como qualquer tag, ela é composta por um `<`, o nome dela: `html` e o `>`.
 
 A tag `<html>`, assim como muitas tags, vem em pares, sendo a `<html>` uma tag de abertura e a `</html>` uma tag de fechamento.
 
@@ -154,7 +154,7 @@ Com isso, você pode escolher entre pôr ou não. Caso queira ter 100% de certez
 
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Chegamos ao fim desse post de introdução a HTML. Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:heitormv12@gmail.com">aqui</a>.
+Chegamos ao fim desse post de introdução a HTML. Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:heitor-easycoding@gmail.com">aqui</a>.
 
 Em breve sai o primeiro post da série _Como criar e publicar seu site do zero_.
 
