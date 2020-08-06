@@ -24,3 +24,6 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 - Começamos com as tags principais:
     - Primeiro o `<html>`.
+    - Ao invés de escrever a tag inteira, tente escrever apenas **html**. Apareceu um pop-up com o html selecionado? Pressione ***ENTER***
+    
+![04.png](https://heitormaverick.github.io/easycoding/images/ccsz2/04.png)
