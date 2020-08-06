@@ -31,3 +31,7 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 - Viu que ele finalizou a tag e ainda fez a tag de fechamento? Essa uma ferramenta muito útil do VS Code.
 
 ![05.png](https://heitormaverick.github.io/easycoding/images/ccsz2/05.png)
+
+- Agora, coloque o cursor entre as tags `<html>` e `</html>` e pressione ***ENTER***
+
+![06.png](https://heitormaverick.github.io/easycoding/images/ccsz2/06.png)
