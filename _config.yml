@@ -20,4 +20,6 @@ defaults:
       author: "Heitor Maciel"
       author_pic: "/images/heitor.jpg"
       permalink: "/blog/:year/:month/:day/:title/"
-        
+
+plugins:
+  - jekyll-sitemap
