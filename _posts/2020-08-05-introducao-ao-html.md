@@ -9,6 +9,8 @@ Para programar em HTML, primeiro é necessário conhecer algumas das funções q
 
 <!--more-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kla4KkvCuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## HTML
 
 Tudo começa com a tag `<html>`. Como qualquer tag, ela é composta por um `<`, o nome dela: `html` e o `>`.
