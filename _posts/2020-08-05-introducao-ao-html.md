@@ -9,7 +9,7 @@ Para programar em HTML, primeiro é necessário conhecer algumas das funções q
 
 <!--more-->
 
-<iframe src="https://www.youtube.com/embed/5kla4KkvCuM" width="1000" height="429" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/5kla4KkvCuM" width="800" height="343" frameborder="0"></iframe>
 
 ## HTML
 
