@@ -11,7 +11,7 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 - Agora, clique em "Open Folder", escolha onde quer guardar os arquivos do seu site e crie uma pasta. Ela pode ter o nome que você quiser.
 
-![0*.png](https://heitormvl.github.io/easycoding/images/ccsz2/0*.png)
+![01.png](https://heitormvl.github.io/easycoding/images/ccsz2/01.png)
 ![02.png](https://heitormvl.github.io/easycoding/images/ccsz2/02.png)
 
 - Clique em abrir.
