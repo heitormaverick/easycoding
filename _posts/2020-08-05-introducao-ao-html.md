@@ -156,7 +156,7 @@ Com isso, você pode escolher entre pôr ou não. Caso queira ter 100% de certez
 
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Chegamos ao fim desse post de introdução a HTML. Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:heitor-easycoding@gmail.com">aqui</a>.
+Chegamos ao fim desse post de introdução a HTML. Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:easycoding.contato@gmail.com">aqui</a>.
 
 Em breve sai o primeiro post da série _Como criar e publicar seu site do zero_.
 
