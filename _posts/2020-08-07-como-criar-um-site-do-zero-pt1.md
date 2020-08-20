@@ -19,21 +19,21 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 - Primeiro, preencha seu nome de usuário, email e senha:
 
-![github1.png](https://heitormaverick.github.io/easycoding/images/ccsz1/github1.png)
+![github1.png](https://heitormvl.github.io/easycoding/images/ccsz1/github1.png)
 
 - Agora verifique sua conta e clique no botão azul:
 
-![github2.png](https://heitormaverick.github.io/easycoding/images/ccsz1/github2.png)
+![github2.png](https://heitormvl.github.io/easycoding/images/ccsz1/github2.png)
 
 - Agora confira no seu email se recebeu a verificação e confirme:
 
-![github3.jpg](https://heitormaverick.github.io/easycoding/images/ccsz1/github3.jpg)
+![github3.jpg](https://heitormvl.github.io/easycoding/images/ccsz1/github3.jpg)
 
 ### Criando o repositório
 
 - Depois de verificar, vamos criar nosso repositório (é onde o código do nosso site será armazenado):
 
-![github4.png](https://heitormaverick.github.io/easycoding/images/ccsz1/github4.png)
+![github4.png](https://heitormvl.github.io/easycoding/images/ccsz1/github4.png)
 
 - Em **Respository name**, colocamos o nome do nosso site + *github.io*;
 
@@ -43,11 +43,11 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 - E cheque a caixa de inicializar com um **leia-me**:
 
-![github5.png](https://heitormaverick.github.io/easycoding/images/ccsz1/github5.png)
+![github5.png](https://heitormvl.github.io/easycoding/images/ccsz1/github5.png)
 
 - Agora, para descobrir o link do nosso site, vamos em **settings** e rolamos até **GitHub Pages**. Lá estará escrito o endereço:
 
-![github6.png](https://heitormaverick.github.io/easycoding/images/ccsz1/github6.png)
+![github6.png](https://heitormvl.github.io/easycoding/images/ccsz1/github6.png)
 
 - Pronto! Já temos o local para o nosso site reservado, agora vamos para o Visual Studio Code para ver onde o site será feito de fato.
 
@@ -63,7 +63,7 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 - Agora, se quiser um atalho na Área de Trabalho, marque a primeira opção, e marque todas as outras abaixo, como no exemplo:
 
-![vsc1.png](https://heitormaverick.github.io/easycoding/images/ccsz1/vsc1.png)
+![vsc1.png](https://heitormvl.github.io/easycoding/images/ccsz1/vsc1.png)
 
 - Agora, clique em instalar.
 
@@ -81,13 +81,13 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 - Agora, se quiser um atalho na Área de Trabalho, marque a primeira opção, e marque todas as outras abaixo, como no exemplo:
 
-![git1.png](https://heitormaverick.github.io/easycoding/images/ccsz1/git1.png)
+![git1.png](https://heitormvl.github.io/easycoding/images/ccsz1/git1.png)
 
 - Agora avance.
 
 - Agora, selecione a opção *Use Visual Studio Code as Git's default editor* (como no exemplo) e avance.
 
-![git2.png](https://heitormaverick.github.io/easycoding/images/ccsz1/git2.png)
+![git2.png](https://heitormvl.github.io/easycoding/images/ccsz1/git2.png)
 
 - Avance novamente, sem alterar nada.
 
