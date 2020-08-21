@@ -70,7 +70,7 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 Pronto. Já temos o **"esqueleto"** do nosso site. No próximo post vamos elaborar o cabeçalho e o rodapé, então não percam.
 
-Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:heitor-easycoding@gmail.com">aqui</a>.
+Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:easycoding.contato@gmail.com">aqui</a>.
 
 Fique de olho que quarta sai o próximo post.
 

@@ -107,7 +107,7 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 Pronto, terminamos tudo por hoje. Com todo nosso ambiente de trabalho configurado, já podemos iniciar a programação. Mas isso é assunto pro próximo post.
 
-Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:heitor-easycoding@gmail.com">aqui</a>.
+Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:easycoding.contato@gmail.com">aqui</a>.
 
 Fique de olho que segunda sai o primeiro post onde vamos por a mão na massa.
 
