@@ -51,7 +51,9 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 - Primeiro criamos os `<div>` dentro do `<body>` escrevendo seu nome e selecionando-o (lembre-se de quebrá-los no meio).
 
-*\* A tag `<div>` e o atributo `id` serão explicados mais profundamente no post **Mais Sobre HTML** em breve.*
+*\* A tag `<div>` é explicada mais profundamente no post [Mais Sobre HTML #1](https://heitormvl.github.io/easycoding/blog/2020/08/11/mais-sobre-html-pt1/).*
+
+*\* O atributo `id` será explicado mais profundamente em breve.*
 
 ![09.png](https://heitormvl.github.io/easycoding/images/ccsz2/09.png)
 
@@ -62,7 +64,7 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 - Como o conteúdo dessa seções vai ter algumas coisas em comum, é interessante usar mais um conjunto de **DIVs** com a mesma classe.
 - Dentro de cada seção, adicione um `<div>` com o atributo `class` \* nomeado como **container**.
 
-*\* O atributo `class` será explicado mais profundamente no post **Mais Sobre HTML** em breve.*
+*\* O atributo `class` será explicado mais profundamente em breve.*
 
 ![11.png](https://heitormvl.github.io/easycoding/images/ccsz2/11.png)
 
