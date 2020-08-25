@@ -2,7 +2,7 @@
 title: Como criar e publicar um site do zero &num;4 - Detalhando o corpo do site
 ---
 
-No [último post](https://heitormvl.github.io/easycoding/blog/2020/08/10/como-criar-um-site-do-zero-pt3/) da série CCPSZ nós terminamos o conteúdo do cabeçalho e do rodapé.
+No [último post](https://heitormvl.github.io/easycoding/blog/2020/08/12/como-criar-um-site-do-zero-pt3/) da série CCPSZ nós terminamos o conteúdo do cabeçalho e do rodapé.
 
 Nesse post, vamos definir o corpo do site e adicionar o primeiro post.
 
