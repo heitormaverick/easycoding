@@ -91,3 +91,18 @@ Em **Find** escreva **post**, para que ele localize essa palavra (elas ficarão 
 Agora é so clicar no botão da direita **Replace All**.
 
 ![15.png](https://heitormvl.github.io/easycoding/images/ccsz4/15.png)
+
+## Pronto!
+
+Completamos a estrutura básica de um **blog**. Vamos atualizar a página **index.html** no navegador e clique em sobre. (Lembre de salvar primeiro!).
+
+Gostou da aparência do site?  
+Não se preocupe, vamos continuar trabalhando no blog para fazê-lo ficar bonito 😎.
+
+Por hoje acabamos. No próximo post vamos finalmente cuidar da aparência do site.
+
+Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:easycoding.contato@gmail.com">aqui</a>.
+
+Fique de olho que segunda sai o próximo post.
+
+Obrigado por ler até aqui, e até mais.
