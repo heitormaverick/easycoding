@@ -55,7 +55,39 @@ Vamos ver como ficou? *(Salve o arquivo e **CTRL** + **1**)*
 
 ![9.png](https://heitormvl.github.io/easycoding/images/ccsz4/9.png)
 
+De novo, logo logo (próximo post) vamos melhorar a aparência
+
 ## Página Sobre
 
 Já que um site é uma coleção de páginas, nós ainda não temos um site.  
-Vamos mudar isso adicionando uma **Página Sobre** com informação sobre você.
+Vamos mudar isso adicionando uma **página Sobre** com informação sobre você.
+
+Para a página Sobre, vamos usar o **index.html**, a página inicial, como template.
+
+No explorador do VSC, selecione o **index.html**, pressione **CTRL** + **C** e **CTRL** + **V** para fazer um **index copy.html**.
+
+![10.png](https://heitormvl.github.io/easycoding/images/ccsz4/10.png)
+
+Agora selecione o **index copy.html**, pressione **F2** e renomeie-o para **sobre.html**.
+
+![11.png](https://heitormvl.github.io/easycoding/images/ccsz4/11.png)
+
+Na seção de post, remova os elementos `<span>` e `<p>`.
+
+![12.png](https://heitormvl.github.io/easycoding/images/ccsz4/12.png)
+
+Então mude o `<h3>` para `<h1>`, faça ele dizer **"Sobre Mim"**, e substitua o conteúdo do post com uma biografia mais detalhada.
+
+![13.png](https://heitormvl.github.io/easycoding/images/ccsz4/13.png)
+
+Finalmente, altere qualquer menção a `post` nos atributos `class` para `sobre`.  
+Para isso, vamos utilizar a ferramenta **encontrar e substituir** (find and replace) do VSC. Basta pressionar **CTRL** + **F**.
+
+Agora clique na setinha para expandir.
+
+![14.png](https://heitormvl.github.io/easycoding/images/ccsz4/14.png)
+
+Em **Find** escreva **post**, para que ele localize essa palavra (elas ficarão amareladas) e em **Replace** escreva **sobre**, para que ele saiba pelo quê deve substituir.  
+Agora é so clicar no botão da direita **Replace All**.
+
+![15.png](https://heitormvl.github.io/easycoding/images/ccsz4/15.png)
