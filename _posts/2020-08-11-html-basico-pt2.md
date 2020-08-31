@@ -1,5 +1,5 @@
 ---
-title: Mais sobre HTML &num;1
+title: HTML Básico &num;2 - Links e Mídia
 ---
 Nesse post vamos ver mais sobre HTML como tags e atributos
 

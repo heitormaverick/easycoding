@@ -1,5 +1,5 @@
 ---
-title: Mais sobre HTML &num;2 - Estilos e listas
+title: HTML Básico &num;3 - Estilos e listas
 ---
 
 No [último post](https://heitormvl.github.io/easycoding/blog/2020/08/11/mais-sobre-html-pt1/) da série de HTML nós vimos tags de links e mídia.
