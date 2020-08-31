@@ -16,6 +16,8 @@ code {
   display: inline-block;
   border: 1px solid cyan;
   padding: 2px 6px;
+  margin-left: 3px;
+  margin-right: 3px;
   background-color: #999;
   color: black;
   font-size: 16px;
