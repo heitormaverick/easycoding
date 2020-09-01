@@ -67,7 +67,7 @@ p {
 #header-title {
   display: block;
   float: left;
-
+  height: 135px;
   font-size: 30px;
   font-weight: bold;
 }
