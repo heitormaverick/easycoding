@@ -5,7 +5,7 @@ author: Heitor Maciel
 
 HTML é a lingugem de programação usada na maioria dos sites.
 
-Para programar em HTML, primeiro é necessário conhecer algumas das funções que o compoem. Vamos ver o que cada uma faz.
+Para programar em HTML, primeiro é necessário conhecer algumas das funções que o compõe. Vamos ver o que cada uma faz.
 
 <!--more-->
 
