@@ -3,7 +3,7 @@ title: HTML básico &num;1 - Introdução ao HTML
 author: Heitor Maciel
 ---
 
-HTML é a lingugem de programção usada na maioria dos sites.
+HTML é a lingugem de programação usada na maioria dos sites.
 
 Para programar em HTML, primeiro é necessário conhecer algumas das funções que o compoem. Vamos ver o que cada uma faz.
 
