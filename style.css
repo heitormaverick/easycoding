@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Coda&family=Source+Code+Pro:wght@400;700&display=swap');
 
 body {
-  background-color: #1C1C1C;
+  background-color: #151515;
   color: white;
   margin: 0;
   padding: 0;
@@ -48,7 +48,7 @@ p {
 }
 
 #header {
-  background-color: #910000;
+  background-color: #960000;
   height: 150px;
   line-height: 150px;
 }
@@ -94,7 +94,7 @@ p {
 }
 
 #footer {
-  background-color: black;
+  background-color:#0B0B0B;
   padding: 50px 0;
 }
 
@@ -115,9 +115,9 @@ p {
 }
 
 .divisão {
-    max-width: 1150px;
-    margin: 0 auto;
-    padding: 0;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0;
 }
 
 .post, .sobre {
