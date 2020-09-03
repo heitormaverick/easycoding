@@ -7,6 +7,8 @@ Para criar e publicar nosso site, precisamos de 3 coisas: um editor de texto, um
 
 <!--more-->
 
+<iframe width="1100" height="465" src="https://www.youtube.com/embed/04zdFfTHrD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Como editor, usaremos o **Visual Studio Code**, pois além de ser um dos editores mais usados por progamadores no mundo, ele também tem uma interface fácil de entender. Baixe ele <a href="https://code.visualstudio.com/" target="_blank">aqui</a>, mas ainda não execute.
 
 Para a hospedagem, usaremos o **GitHub**, uma das maiores plataformas de hospedagem de repositórios de código. Crie sua conta <a href="https://github.com/" target="_blank">aqui</a> (siga o passo-a-passo abaixo).
