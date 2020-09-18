@@ -7,6 +7,8 @@ O nosso site será feito no formato de blog, já que é um dos mais fáceis.
 
 <!--more-->
 
+<iframe src="https://www.youtube.com/embed/G7JSG9ijoNw" width="1100" height="465" frameborder="0" allowfullscreen></iframe>
+
 - Para começarmos, abra o Visual Studio Code (caso não o tenha instalado, veja nosso [post #1](https://heitormvl.github.io/easycoding/blog/2020/08/07/como-criar-site-do-zero-pt*/) onde explico como configurar os programas que usaremos).
 
 - Agora, clique em "Open Folder", escolha onde quer guardar os arquivos do seu site e crie uma pasta. Ela pode ter o nome que você quiser.
