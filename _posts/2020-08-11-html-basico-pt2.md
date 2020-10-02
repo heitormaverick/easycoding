@@ -5,6 +5,8 @@ Nesse post vamos ver mais sobre HTML como tags e atributos
 
 <!--more-->
 
+<iframe src="https://www.youtube.com/embed/s72D7UVPJF0" width="1100" height="465" frameborder="0" allowfullscreen></iframe>
+
 Um arquivo .html, pra ser mais preciso, é uma página da web. Sites são feitos de várias páginas, e é aí que entram os links, ou *hyperlinks*.
 
 Eles conectam páginas entre si, ou um site com outro. Então, ao invés de termos que digitar cada url que queremos acessar, links nos levam diretamente com apenas um clique.
