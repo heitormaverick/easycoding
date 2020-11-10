@@ -3,7 +3,7 @@ title: HTML básico &num;1 - Introdução ao HTML
 author: Heitor Maciel
 ---
 
-HTML é a lingugem de programação usada na maioria dos sites.
+HTML é a linguagem de programação usada na maioria dos sites.
 
 Para programar em HTML, primeiro é necessário conhecer algumas das funções que o compõe. Vamos ver o que cada uma faz.
 
@@ -51,7 +51,7 @@ Os **headings**, ou cabeçalhos/títulos, são tags que alteram a aparência do 
 
 Você percebeu os números nas tags `<h->`? Quanto menor o número, maior o texto, e vice-versa.
 
-E assim como as tags anterioresa, as `<h->` também precisam da tag de fechamento correspondente.
+E assim como as tags anteriores, as `<h->` também precisam da tag de fechamento correspondente.
 
 ## P
 
@@ -77,7 +77,7 @@ Notou que há um espaço entre cada linha em que usamos o `<p>` no exemplo? Quer
 
 ## BR
 
-Para apenas quebrarmos a linha, ao invés de criar um novo parágrafo, usamos a tag `<br>`. Veja o exemplo:
+Para apenas quebrarmos a linha, ao invés de criar um parágrafo, usamos a tag `<br>`. Veja o exemplo:
 
 <p  
     class="codepen" data-height="324" data-theme-id="dark" data-default-tab="html,result" data-user="heitormaverick" data-slug-hash="YzwaMVX" style="height: 324px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Exemplo de tags BR">

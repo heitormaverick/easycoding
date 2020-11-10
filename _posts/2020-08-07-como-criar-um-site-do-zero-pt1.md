@@ -3,13 +3,13 @@ title: Como criar e publicar um site do zero &num;1 - Preparando as ferramentas
 ---
 Nesse post, vamos começar com as ferramentas necessárias para podermos criar nosso site
 
-Para criar e publicar nosso site, precisamos de 3 coisas: um editor de texto, um hospedeiro pro nosso site, e um programa para integrar os dois.
+Para criar e publicar nosso site, precisamos de 3 coisas: um editor de texto, um hospedeiro para o nosso site, e um programa para integrar os dois.
 
 <!--more-->
 
 <iframe src="https://www.youtube.com/embed/04zdFfTHrD0" width="1100" height="465" frameborder="0" allowfullscreen></iframe>
 
-Como editor, usaremos o **Visual Studio Code**, pois além de ser um dos editores mais usados por progamadores no mundo, ele também tem uma interface fácil de entender. Baixe ele <a href="https://code.visualstudio.com/" target="_blank">aqui</a>, mas ainda não execute.
+Como editor, usaremos o **Visual Studio Code**, pois além de ser um dos editores mais usados por programadores no mundo, ele também tem uma interface fácil de entender. Baixe ele <a href="https://code.visualstudio.com/" target="_blank">aqui</a>, mas ainda não execute.
 
 Para a hospedagem, usaremos o **GitHub**, uma das maiores plataformas de hospedagem de repositórios de código. Crie sua conta <a href="https://github.com/" target="_blank">aqui</a> (siga o passo-a-passo abaixo).
 
@@ -55,7 +55,7 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 ## Visual Studio Code
 
-- Se você seguiu as instrunções da introdução, já deve ter o instalador do VSC baixado. Então, execute-o.
+- Se você seguiu as instruções da introdução, já deve ter o instalador do VSC baixado. Então, execute-o.
 
 - Na primeira janela pode aceitar.
 
@@ -107,10 +107,10 @@ E para integrar os dois, usamos o **Git**. Baixe ele <a href="https://www.git-sc
 
 - Finalize.
 
-Pronto, terminamos tudo por hoje. Com todo nosso ambiente de trabalho configurado, já podemos iniciar a programação. Mas isso é assunto pro próximo post.
+Pronto, terminamos tudo por hoje. Com todo nosso ambiente de trabalho configurado, já podemos iniciar a programação. Mas isso é assunto para o próximo post.
 
 Caso tenha restado alguma dúvida, não hesite em me contatar por email clicando na aba Contato no menu, ou <a href="mailto:easycoding.contato@gmail.com">aqui</a>.
 
-Fique de olho que segunda sai o primeiro post onde vamos por a mão na massa.
+Fique de olho que em breve sai o primeiro post aonde vamos pôr a mão na massa.
 
 Obrigado por ler até aqui, e até mais.

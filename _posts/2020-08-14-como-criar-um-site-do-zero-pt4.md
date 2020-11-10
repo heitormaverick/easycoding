@@ -8,7 +8,7 @@ Nesse post, vamos definir o corpo do site e adicionar o primeiro post.
 
 <!--more-->
 
-A seção de contúdo vai ser composta por **posts de blog** (obviamente), e um post terá a foto e nome do autor, uma data, e algum texto.
+A seção de conteúdo vai ser composta por **posts de blog** (obviamente), e um post terá a foto e nome do autor, uma data, e algum texto.
 
 Vamos adicionar o post!
 
@@ -87,14 +87,14 @@ Agora clique na setinha para expandir.
 
 ![14.png](https://heitormvl.github.io/easycoding/images/ccsz4/14.png)
 
-Em **Find** escreva **post**, para que ele localize essa palavra (elas ficarão amareladas) e em **Replace** escreva **sobre**, para que ele saiba pelo quê deve substituir.  
-Agora é so clicar no botão da direita **Replace All**.
+Em **Find** escreva **post**, para que ele localize essa palavra (elas ficarão amareladas) e em **Replace** escreva **sobre**, para que ele saiba pelo que deve substituir.  
+Agora é só clicar no botão da direita **Replace All**.
 
 ![15.png](https://heitormvl.github.io/easycoding/images/ccsz4/15.png)
 
 ## Pronto!
 
-Completamos a estrutura básica de um **blog**. Vamos atualizar a página **index.html** no navegador e clique em sobre. (Lembre de salvar primeiro!).
+Completamos a estrutura básica de um **blog**. Vamos atualizar a página **index.html** no navegador e clique em sobre. (Lembre-se de salvar primeiro!).
 
 Gostou da aparência do site?  
 Não se preocupe, vamos continuar trabalhando no blog para fazê-lo ficar bonito 😎.

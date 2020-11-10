@@ -59,7 +59,7 @@ Certifique-se de salvar as alterações pressionando **CTRL** + **S**. A bolinha
 
 ![07.png](https://heitormvl.github.io/easycoding/images/ccsz3/07.png)
 
-Agora pressione **CTRL** + **1**. Agora o VSC vai abri seu navegador para exibir o site (**Aviso:** o site ainda não está publicado. O que você está vendo é apenas um arquivo local.)
+Agora pressione **CTRL** + **1**. Agora o VSC vai abrir seu navegador para exibir o site (**Aviso:** o site ainda não está publicado. O que você está vendo é apenas um arquivo local.)
 
 Seu site deve estar assim:
 
@@ -87,7 +87,7 @@ Abaixo dele, adicione um parágrafo que contenha um link, uma quebra de linha e 
 
 ### Biografia
 
-Na segunda coluna, adicione um elemento `<h4>` que diz Minha História (ou o que você quiser) e um elemento `<p>` que contenha um biografia curtinha.
+Na segunda coluna, adicione um elemento `<h4>` que diz Minha História (ou o que você quiser) e um elemento `<p>` que contenha uma biografia curtinha.
 
 ![12.png](https://heitormvl.github.io/easycoding/images/ccsz3/12.png)
 
